@@ -1,0 +1,1 @@
+import{Mn as i,ql as o}from"./CS3-uH5M.js";var t=o("position",()=>{const o=i({prefix:"position",defaultFixedWidth:300});return{...o,visible:o.visible,positionBoundingRect:o.boundingRect}});export{t};

@@ -1,0 +1,1 @@
+import{$l as a}from"./CS3-uH5M.js";var o=a("/download/frame-1.svg");export{o as t};

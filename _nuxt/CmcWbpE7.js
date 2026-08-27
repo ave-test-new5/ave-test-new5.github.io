@@ -1,0 +1,1 @@
+import{$l as a}from"./CS3-uH5M.js";var o=a("/icon-default.png");export{o as t};
